@@ -1,0 +1,14 @@
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\bin\Debug\net7.0\ProdEletronico.exe
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\bin\Debug\net7.0\ProdEletronico.deps.json
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\bin\Debug\net7.0\ProdEletronico.runtimeconfig.json
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\bin\Debug\net7.0\ProdEletronico.dll
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\bin\Debug\net7.0\ProdEletronico.pdb
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\obj\Debug\net7.0\ProdEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\obj\Debug\net7.0\ProdEletronico.AssemblyInfoInputs.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\obj\Debug\net7.0\ProdEletronico.AssemblyInfo.cs
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\obj\Debug\net7.0\ProdEletronico.csproj.CoreCompileInputs.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\obj\Debug\net7.0\ProdEletronico.dll
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\obj\Debug\net7.0\refint\ProdEletronico.dll
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\obj\Debug\net7.0\ProdEletronico.pdb
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\obj\Debug\net7.0\ProdEletronico.genruntimeconfig.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\ProdEletronico\obj\Debug\net7.0\ref\ProdEletronico.dll

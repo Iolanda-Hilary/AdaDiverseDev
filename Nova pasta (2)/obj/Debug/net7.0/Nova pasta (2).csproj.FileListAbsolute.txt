@@ -1,0 +1,4 @@
+C:\Users\iolan\OneDrive\Área de Trabalho\Nova pasta (2)\obj\Debug\net7.0\Nova pasta (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iolan\OneDrive\Área de Trabalho\Nova pasta (2)\obj\Debug\net7.0\Nova pasta (2).AssemblyInfoInputs.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\Nova pasta (2)\obj\Debug\net7.0\Nova pasta (2).AssemblyInfo.cs
+C:\Users\iolan\OneDrive\Área de Trabalho\Nova pasta (2)\obj\Debug\net7.0\Nova pasta (2).csproj.CoreCompileInputs.cache

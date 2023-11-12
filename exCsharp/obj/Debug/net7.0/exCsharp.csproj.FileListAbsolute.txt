@@ -1,0 +1,14 @@
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\obj\Debug\net7.0\exCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\obj\Debug\net7.0\exCsharp.AssemblyInfoInputs.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\obj\Debug\net7.0\exCsharp.AssemblyInfo.cs
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\obj\Debug\net7.0\exCsharp.csproj.CoreCompileInputs.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\bin\Debug\net7.0\exCsharp.exe
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\bin\Debug\net7.0\exCsharp.deps.json
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\bin\Debug\net7.0\exCsharp.runtimeconfig.json
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\bin\Debug\net7.0\exCsharp.dll
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\bin\Debug\net7.0\exCsharp.pdb
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\obj\Debug\net7.0\exCsharp.dll
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\obj\Debug\net7.0\refint\exCsharp.dll
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\obj\Debug\net7.0\exCsharp.pdb
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\obj\Debug\net7.0\exCsharp.genruntimeconfig.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\exCsharp\obj\Debug\net7.0\ref\exCsharp.dll
