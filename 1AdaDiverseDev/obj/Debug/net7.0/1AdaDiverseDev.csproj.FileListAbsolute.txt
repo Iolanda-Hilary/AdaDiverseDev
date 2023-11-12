@@ -1,0 +1,4 @@
+C:\Users\iolan\OneDrive\Área de Trabalho\1AdaDiverseDev\obj\Debug\net7.0\1AdaDiverseDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iolan\OneDrive\Área de Trabalho\1AdaDiverseDev\obj\Debug\net7.0\1AdaDiverseDev.AssemblyInfoInputs.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\1AdaDiverseDev\obj\Debug\net7.0\1AdaDiverseDev.AssemblyInfo.cs
+C:\Users\iolan\OneDrive\Área de Trabalho\1AdaDiverseDev\obj\Debug\net7.0\1AdaDiverseDev.csproj.CoreCompileInputs.cache
