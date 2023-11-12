@@ -1,0 +1,14 @@
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\bin\Debug\net7.0\IdadeNadador.exe
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\bin\Debug\net7.0\IdadeNadador.deps.json
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\bin\Debug\net7.0\IdadeNadador.runtimeconfig.json
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\bin\Debug\net7.0\IdadeNadador.dll
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\bin\Debug\net7.0\IdadeNadador.pdb
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\obj\Debug\net7.0\IdadeNadador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\obj\Debug\net7.0\IdadeNadador.AssemblyInfoInputs.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\obj\Debug\net7.0\IdadeNadador.AssemblyInfo.cs
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\obj\Debug\net7.0\IdadeNadador.csproj.CoreCompileInputs.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\obj\Debug\net7.0\IdadeNadador.dll
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\obj\Debug\net7.0\refint\IdadeNadador.dll
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\obj\Debug\net7.0\IdadeNadador.pdb
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\obj\Debug\net7.0\IdadeNadador.genruntimeconfig.cache
+C:\Users\iolan\OneDrive\Área de Trabalho\IdadeNadador\obj\Debug\net7.0\ref\IdadeNadador.dll

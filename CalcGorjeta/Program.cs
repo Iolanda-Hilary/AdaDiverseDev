@@ -8,7 +8,7 @@
 
         float gorjetaFinal = valorConta * valorGorjeta / 100;
         float valorTotal = gorjetaFinal + valorConta;
-        Console.WriteLine($"Você pagará {valorTotal} no total esta noite")
+        Console.WriteLine($"Você pagará R${valorTotal} no total esta noite")
 
 
     }
